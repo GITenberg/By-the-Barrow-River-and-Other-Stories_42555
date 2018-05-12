@@ -1,0 +1,47 @@
+_repo: By-the-Barrow-River-and-Other-Stories_42555
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Tynan, Katharine
+    aliases:
+    - Hinkson, Mrs. H. A.
+    - Tynan, Katherine
+    - Hinkson, Katharine Tynan
+    birthdate: 1861
+    deathdate: 1931
+    gutenberg_agent_id: '7598'
+    url: http://www.gutenberg.org/2009/agents/7598
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Tynan
+covers:
+- cover_type: archival
+  image_path: 42555-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Leamy, Edmund
+    birthdate: 1848
+    deathdate: 1904
+    gutenberg_agent_id: '25152'
+    url: http://www.gutenberg.org/2009/agents/25152
+description: ''
+gutenberg_issued: '2013-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Irish -- Foreign countries -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: By the Barrow River -- "Bendemeer Cottage" -- A night with the Rapparees
+  -- "Worse than Cremona" -- Maurya na Gleanna, or revenged at last -- Story of the
+  raven -- The spectres of Barcelona -- The black dog -- The ghost of Garroid Jarla
+  -- True to death -- "The light that lies in woman's eyes" -- Death by misadventure
+  -- A message from the dead -- A vision of the night -- The pretty Quakeress -- My
+  first case -- A vision or a dream? -- From the jail to the battlefield -- All for
+  a woman's eyes -- The ruse of Madame Martin.
+title: By the Barrow River, and Other Stories
+url: http://www.gutenberg.org/ebooks/42555
